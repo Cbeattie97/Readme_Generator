@@ -1,7 +1,7 @@
-# E-Commerce Database
+# 
   ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
   ## Description
-  To build the back end for an e-commerce site that uses the latest technologies.
+  
   ## Table of Contents
   - [Installation](#installation)
   - [Usage](#usage)
@@ -10,7 +10,7 @@
   - [Tests](#tests)
   - [Questions](#questions)
   ## Installation
-  Download the required dependencies using "npm i" 
+  
   ## Usage
   
   ## Credits
@@ -20,5 +20,5 @@
   ## Tests
   
   ## Questions
-  If you have any questions, please contact me at cameronbeattie97@gmail.com.
-  You can also visit my GitHub profile at [Cbeattie97]
+  If you have any questions, please contact me at .
+  You can also visit my GitHub profile at [Cbeattie97](www.github.com/Cbeattie97)
